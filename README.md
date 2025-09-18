@@ -1,2 +1,12 @@
-# 5
-html program 3
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sample</title>
+    <link rel="stylesheet" href="size.css">
+</head>
+<body>
+    <h1> Responsive Heading</h1>
+</body>
+</html>
